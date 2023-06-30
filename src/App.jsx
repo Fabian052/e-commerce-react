@@ -12,7 +12,6 @@ import SignUp from './pages/SignUp'
 
 function App() {
 
-
   return (
     <main className='grid grid-rows-[auto_1fr] min-h-screen font-[Yantramanav"]'>
       <Header />
